@@ -2,10 +2,6 @@
 
 Wordle done using Flutter for iOS and Android platforms.
 
-## See our tutorial post:
-
-[Making Wordle Game Mobile App With Flutter: Full Tutorial](https://perpet.io/blog/making-wordle-game-mobile-app-clone-with-flutter-full-tutorial/)
-
 ## Screenshots
 
 <img src="https://github.com/perpetio/wordle/blob/main/screen1.png?raw=true" alt="drawing" width="400"/> <img src="https://github.com/perpetio/wordle/blob/main/screen2.png?raw=true" alt="drawing" width="400"/>
